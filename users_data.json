@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Джонни Сильверхенд",
+    "birthdate": "01.01.2000",
+    "email": "destroy_arasaka@gmail.com",
+    "photoUrl": "https://i.imgur.com/8R849kx.jpeg",
+    "role": "ADMIN",
+    "status": "ACTIVE",
+    "password": "admin",
+    "friends": [
+      4,
+      5
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Барсик Мявкочив",
+    "birthdate": "12.12.2012",
+    "email": "catrules@gmail.com",
+    "photoUrl": "https://i.imgur.com/GCCy7dV.jpeg",
+    "role": "USER",
+    "status": "UNCONFIRMED",
+    "password": "admin",
+    "friends": [
+      5
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Цирилла из Цинтры",
+    "birthdate": "12.12.2012",
+    "email": "nilfgaardian_princess@gmail.com",
+    "photoUrl": "https://i.imgur.com/sJ09c4H.jpeg",
+    "role": "USER",
+    "status": "UNCONFIRMED",
+    "password": "admin",
+    "friends": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Гена Гордон",
+    "birthdate": "12.12.2012",
+    "email": "batman_team@gmail.com",
+    "photoUrl": "https://i.imgur.com/ujZMQD0.jpeg",
+    "role": "USER",
+    "status": "ACTIVE",
+    "password": "admin",
+    "friends": [
+      1,
+      5,
+      6
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Петр Первый",
+    "birthdate": "12.12.2012",
+    "email": "russia_emperor@gmail.com",
+    "photoUrl": "https://i.imgur.com/YcROGzu.jpeg",
+    "role": "USER",
+    "status": "UNCONFIRMED",
+    "password": "admin",
+    "friends": [
+      1,
+      5,
+      6
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Джим Керри",
+    "birthdate": "12.12.2012",
+    "email": "comedy_carrier@mail.ru",
+    "photoUrl": "https://i.imgur.com/zhxREoP.png",
+    "role": "USER",
+    "status": "ACTIVE",
+    "password": "admin",
+    "friends": [
+      5
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Ценитель Высокого",
+    "birthdate": "12.12.2012",
+    "email": "fewwill_understand@mail.ru",
+    "photoUrl": "https://i.imgur.com/vkvrmWO.png",
+    "role": "USER",
+    "status": "ACTIVE",
+    "password": "admin",
+    "friends": []
+  }
+]

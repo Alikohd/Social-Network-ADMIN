@@ -1,0 +1,18 @@
+extends layout
+
+block title
+    title Пользователь
+
+block append scripts
+    script(src="../js/utils.js")
+    script(src="../js/user.js")
+
+block content
+    h1 Пользователь
+    .user_block_user
+
+    h2 Друзья пользователя
+    .user_block_friends
+
+    h2 Новости друзей
+    .user_block_news
